@@ -5,7 +5,7 @@
 - 👓 I am a aspiring Data Scientist
 - 🌱 I’m currently learning R and Pandas Python Library
 - 👯 I’m looking to collaborate with other Programmers
-- 🥅 2021 Goals: Contribute more to Open Source projects and connect with more Programmers
+- 🥅 2022 Goals: Contribute more to Open Source projects and connect with more Programmers
 - ⚡ Fun fact: I am also a Fly Fisherman!
 
 ### Connect with me:
