@@ -2,10 +2,10 @@
 
 ## I'm a Data Analyst, Developer, Tech Nut,and a Team Player!!
 
-- 👓 I am a aspiring Data Scientist
-- 🌱 I’m currently learning R and Pandas Python Library
+- 👓 I am a aspiring programmer
+- 🌱 I’m currently learning advanced Python skills
 - 👯 I’m looking to collaborate with other Programmers
-- 🥅 2022 Goals: Contribute more to Open Source projects and connect with more Programmers
+- 🥅 2024 Goals: Contribute more to Open Source projects and connect with more Programmers
 - ⚡ Fun fact: I am also a Fly Fisherman!
 
 ### Connect with me:
