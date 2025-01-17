@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, Tech Nut, and a Team Player!!
 
-- 👓 I am a programmer
+- 👓 I am a programmer with two college degrees
 - 🌱 I’m currently learning Advanced Machine Learning and Ruby on Rails
 - 👯 I’m looking to collaborate with other Programmers
 - 🥅 2025 Goals: Contribute more to Open Source projects and starting my own business
