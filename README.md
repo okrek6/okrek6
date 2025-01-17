@@ -1,6 +1,6 @@
 ### What's up, I'm Brendan 👋
 
-## I'm a Full Stack Developer, Tech Nut,and a Team Player!!
+## I'm a Full Stack Developer, Tech Nut, and a Team Player!!
 
 - 👓 I am a programmer
 - 🌱 I’m currently learning Advanced Machine Learning and Ruby on Rails
