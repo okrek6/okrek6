@@ -1,11 +1,11 @@
 ### What's up, I'm Brendan 👋
 
-## I'm a Data Analyst, Developer, Tech Nut,and a Team Player!!
+## I'm a Full Stack Developer, Tech Nut,and a Team Player!!
 
-- 👓 I am a aspiring programmer
-- 🌱 I’m currently learning advanced Python skills
+- 👓 I am a programmer
+- 🌱 I’m currently learning Advanced Machine Learning and Ruby on Rails
 - 👯 I’m looking to collaborate with other Programmers
-- 🥅 2024 Goals: Contribute more to Open Source projects and connect with more Programmers
+- 🥅 2025 Goals: Contribute more to Open Source projects and starting my own business
 - ⚡ Fun fact: I am also a Fly Fisherman!
 
 ### Connect with me:
